@@ -9,7 +9,7 @@
 Hi! I'm Takis and I'm an [Electrical and Computer Engineer at NTUA](https://www.ece.ntua.gr/gr).
 
 I have been fiddling around with computers for as long as I can remember and as a result, I became very interested in coding and creating my own works.
-I began *pseudo*coding in grade school using Scratch and entered University with only a begginer level understanding of Python.
+I began *pseudo*coding in grade school using Scratch and entered University with only a beginner level understanding of Python.
 I have been playing games on the family computer since childhood and I have always been amazed and curious about the process behind the making of a game, 
 which pushed me into making [my very own](#pre-uni-projects).
 
