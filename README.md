@@ -1,5 +1,5 @@
 ### Hi there 👋
-![soulslikebanner_complete_reshape](https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/c982bcff-f858-43e0-9e41-d7f3fc5554c7)
+![soulslikebanner_complete_reshape.gif](https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/c982bcff-f858-43e0-9e41-d7f3fc5554c7)
 
 <!--
 **ChainsawPerson/ChainsawPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
