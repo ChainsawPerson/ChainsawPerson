@@ -1,5 +1,53 @@
-### Hi there 👋
+<h1 align="center">Hello 😊</h1>
+
 ![soulslikebanner_complete_reshape](https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/c982bcff-f858-43e0-9e41-d7f3fc5554c7)
+
+## A little bit about myself
+
+Hi! I'm Takis and I'm an [Electrical and Computer Engineer at NTUA](https://www.ece.ntua.gr/gr).
+
+I have been fiddling around with computers for as long as I can remember and as a result, I became very interested in coding and creating my own works.
+I began *pseudo*coding in grade school using Scratch and entered University with only a begginer level understanding of Python.
+I have been playing games on the family computer since childhood and I have always been amazed and curious about the process behind the making of a game, 
+which pushed me into making [my very own](#pre-uni-projects).
+
+My hobbies include:
+* Gaming
+* Reading Manga
+* Watching Anime
+* Memes
+* Learning about new things in:
+    * Science
+    * Technology
+    * Entertainment
+
+My [dream](https://www.creativeuncut.com/gallery-27/art/jbaasb-giorno-giovanna.jpg) is to become a Game Developer and create a successful and fulfilling game (or maybe even a franchise if I were to shoot for the stars).
+
+My favorite game franchises are:
+- [The Legend of Zelda](https://zelda.nintendo.com)
+- [Dark Souls](https://en.bandainamcoent.eu/dark-souls)
+- [Final Fantasy](https://na.finalfantasy.com)
+
+And they are my main source of inspiration as a developer.
+
+# Pre Uni Projects:
+
+I took part in a coding competition on Scratch where I made my very first game:
+
+[The Tale of the Brave Hero](https://scratch.mit.edu/projects/305930412/)
+
+I have been working on-and-off on a [more complete version of the game](https://scratch.mit.edu/projects/317020095/) since then (on Scratch), but it is still far from completed.
+
+# Uni Projects:
+
+I have *yet* to publish a work of my own due to limited free time, but I have uploaded most of my Uni homework on multiple repos.
+Feel free to check them out and contact me for any mistakes/advice/pointers.
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Signals_and_Systems&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Computer-Networks-NTUA-23&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Digital-Communications-I&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Software_Engineering_23-55&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
 
 <!--
 **ChainsawPerson/ChainsawPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
