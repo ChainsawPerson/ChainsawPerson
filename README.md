@@ -2,6 +2,8 @@
 
 ![soulslikebanner_complete_reshape](https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/c982bcff-f858-43e0-9e41-d7f3fc5554c7)
 
+> Image created with [Canva](https://www.canva.com) and Canva AI Video Generator.
+
 ## A little bit about myself
 
 Hi! I'm Takis and I'm an [Electrical and Computer Engineer at NTUA](https://www.ece.ntua.gr/gr).
