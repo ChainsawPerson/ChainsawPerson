@@ -60,6 +60,18 @@ Feel free to check them out and [contact me](#socials) for any mistakes/advice/p
 
 ## Programming
 
+I have experience using these languages:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 
 <!--
 **ChainsawPerson/ChainsawPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,12 +90,13 @@ Here are some ideas to get you started:
 
 # Socials
 
-Contact me on any social:
-
-<div id="badges">
+<div id="social" align="center">
+   <h5 align="center">Contact me on any social:</h5>
    <a href="https://www.instagram.com/takis.stam/">
       <img src="https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/87a3adec-a440-42df-97c7-5da577a61d95" width="150"/>
    </a>
+</div>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/panagiotis-stamatopoulos-4aaa7b268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
