@@ -4,6 +4,8 @@
 
 > Image created with [Canva](https://www.canva.com) and Canva AI Video Generator.
 
+# Intro
+
 ## A little bit about myself
 
 Hi! I'm Takis and I'm an [Electrical and Computer Engineer at NTUA](https://www.ece.ntua.gr/gr).
@@ -32,15 +34,18 @@ My favorite game franchises are:
 
 And they are my main source of inspiration as a developer.
 
-# Pre Uni Projects:
+## Pre Uni Projects:
 
 I took part in a coding competition on Scratch where I made my very first game:
 
 [The Tale of the Brave Hero](https://scratch.mit.edu/projects/305930412/)
 
+![image](https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/07ff71f3-5938-4789-a79d-f770e00f47ba)
+
+
 I have been working on-and-off on a [more complete version of the game](https://scratch.mit.edu/projects/317020095/) since then (on Scratch), but it is still far from completed.
 
-# Uni Projects:
+## Uni Projects:
 
 I have *yet* to publish a work of my own due to limited free time, but I have uploaded most of my Uni homework on multiple repos.
 Feel free to check them out and contact me for any mistakes/advice/pointers.
@@ -51,7 +56,17 @@ Feel free to check them out and contact me for any mistakes/advice/pointers.
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Software_Engineering_23-55&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Software_Engineering_23-55)
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=SwipeFlix&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/SwipeFlix)
 
+# My skills
 
+## Programming
+
+The following code block WILL be syntax-highlighted.
+
+```javascript
+function test() {
+    console.log('Test passed!');
+}
+```
 <!--
 **ChainsawPerson/ChainsawPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
