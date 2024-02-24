@@ -40,8 +40,11 @@ I took part in a coding competition on Scratch where I made my very first game:
 
 [The Tale of the Brave Hero](https://scratch.mit.edu/projects/305930412/)
 
-![image](https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/07ff71f3-5938-4789-a79d-f770e00f47ba)
-
+<div align="center">
+   <a href="https://scratch.mit.edu/projects/305930412/">
+      <img src="https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/07ff71f3-5938-4789-a79d-f770e00f47ba" width="720"/>
+   </a>
+</div>
 
 I have been working on-and-off on a [more complete version of the game](https://scratch.mit.edu/projects/317020095/) since then (on Scratch), but it is still far from completed.
 
