@@ -72,6 +72,13 @@ I have experience using these languages:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## Other
+
+I can speak 3 languages:
+
+- Greek
+- English
+- German
 
 <!--
 **ChainsawPerson/ChainsawPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
