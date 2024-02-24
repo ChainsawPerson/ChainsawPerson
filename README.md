@@ -48,7 +48,7 @@ I have been working on-and-off on a [more complete version of the game](https://
 ## Uni Projects:
 
 I have *yet* to publish a work of my own due to limited free time, but I have uploaded most of my Uni homework on multiple repos.
-Feel free to check them out and contact me for any mistakes/advice/pointers.
+Feel free to check them out and [contact me](#socials) for any mistakes/advice/pointers.
 
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Signals_and_Systems&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Signals_and_Systems)
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Computer-Networks-NTUA-23&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Computer-Networks-NTUA-23)
@@ -60,13 +60,7 @@ Feel free to check them out and contact me for any mistakes/advice/pointers.
 
 ## Programming
 
-The following code block WILL be syntax-highlighted.
 
-```javascript
-function test() {
-    console.log('Test passed!');
-}
-```
 <!--
 **ChainsawPerson/ChainsawPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -81,3 +75,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Socials
+
+Contact me on any social:
+
+<div id="badges">
+   <a href="https://www.instagram.com/takis.stam/">
+      <img src="https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/87a3adec-a440-42df-97c7-5da577a61d95" width="150"/>
+   </a>
+  <a href="https://www.linkedin.com/in/panagiotis-stamatopoulos-4aaa7b268/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/Hey.B00ss/">
+    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
