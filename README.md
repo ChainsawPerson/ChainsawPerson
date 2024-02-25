@@ -61,12 +61,23 @@ I have been working on-and-off on a [more complete version of the game](https://
 
 I have *yet* to publish a work of my own due to limited free time, but I have uploaded most of my Uni homework on multiple repos.
 Feel free to check them out and [contact me](#socials) for any mistakes/advice/pointers.
-
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Signals_and_Systems&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Signals_and_Systems)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Computer-Networks-NTUA-23&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Computer-Networks-NTUA-23)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Digital-Communications-I&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Digital-Communications-I)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Software_Engineering_23-55&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/Software_Engineering_23-55)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=SwipeFlix&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/ChainsawPerson/SwipeFlix)
+<p align="center">
+    <a href="https://github.com/ChainsawPerson/Signals_and_Systems">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Signals_and_Systems&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+    <a href="https://github.com/ChainsawPerson/Computer-Networks-NTUA-23">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Computer-Networks-NTUA-23&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+    <a href="https://github.com/ChainsawPerson/Digital-Communications-I">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Digital-Communications-I&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+    <a href="https://github.com/ChainsawPerson/Software_Engineering_23-55">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Software_Engineering_23-55&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+    <a href="https://github.com/ChainsawPerson/SwipeFlix">
+        <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=SwipeFlix&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+</p>
 
 # My skills
 
