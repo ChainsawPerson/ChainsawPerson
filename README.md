@@ -98,19 +98,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Socials
-
-<div id="social" align="center">
-   <h5 align="center">Contact me on any social:</h5>
-   <a href="https://www.instagram.com/takis.stam/">
-      <img src="https://github.com/ChainsawPerson/ChainsawPerson/assets/124575928/87a3adec-a440-42df-97c7-5da577a61d95" width="150"/>
-   </a>
-</div>
+Socials
+-------
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/panagiotis-stamatopoulos-4aaa7b268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/Hey.B00ss/">
-    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
