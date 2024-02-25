@@ -16,21 +16,30 @@ I have been playing games on the family computer since childhood and I have alwa
 which pushed me into making [my very own](#pre-uni-projects).
 
 My hobbies include:
-* Gaming
-* Reading Manga
-* Watching Anime
-* Memes
-* Learning about new things in:
-    * Science
-    * Technology
-    * Entertainment
+
+    🕹️ Gaming
+
+    📖 Reading Manga
+
+    ⚔️ Watching Anime
+
+    🗿 Memes
+
+    💡 Learning about new things in:
+
+       ⚛ Science
+    
+       👨🏻‍💻 Technology
+    
+       ✨ Entertainment
 
 My [dream](https://www.creativeuncut.com/gallery-27/art/jbaasb-giorno-giovanna.jpg) is to become a Game Developer and create a successful and fulfilling game (or maybe even a franchise if I were to shoot for the stars).
 
 My favorite game franchises are:
-- [The Legend of Zelda](https://zelda.nintendo.com)
-- [Dark Souls](https://en.bandainamcoent.eu/dark-souls)
-- [Final Fantasy](https://na.finalfantasy.com)
+
+> 🧝 [The Legend of Zelda](https://zelda.nintendo.com)<br>
+> 🔥 [Dark Souls](https://en.bandainamcoent.eu/dark-souls)<br>
+> 🧙‍♂️ [Final Fantasy](https://na.finalfantasy.com)
 
 And they are my main source of inspiration as a developer.
 
@@ -61,7 +70,7 @@ Feel free to check them out and [contact me](#socials) for any mistakes/advice/p
 
 # My skills
 
-## Programming
+## Programming Languages
 
 I have experience using these languages:
 
@@ -73,6 +82,24 @@ I have experience using these languages:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## Programming Tools
+
+I have experience using these tools:
+
+<p align="center">
+   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" height="40" style="vertical-align:top; margin:4px">
+   
 </p>
 
 ## Other
