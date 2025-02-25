@@ -86,6 +86,9 @@ Feel free to check them out and [contact me](#socials) for any mistakes/advice/p
     <a href="https://github.com/ChainsawPerson/Advanced-DB-2025">
         <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=Advanced-DB-2025&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     </a>
+    <a href="https://github.com/ChainsawPerson/TaskManagementSystem">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChainsawPerson&repo=TaskManagementSystem&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    </a>
 </p>
 
 # My skills
